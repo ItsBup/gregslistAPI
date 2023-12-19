@@ -1,4 +1,3 @@
-import { carsService } from "../services/CarsService.js";
 import { houseService } from "../services/HouseService.js";
 import BaseController from "../utils/BaseController.js";
 
